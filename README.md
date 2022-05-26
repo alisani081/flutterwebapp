@@ -7,4 +7,4 @@ A web application build using Flutter
 - Dashboard with charts
 
 ### Links
-The project is hosted at https://alisani081.github.io/flutterwebapp/
+The project is live on https://alisani081.github.io/flutterwebapp/
